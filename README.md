@@ -21,3 +21,5 @@ cloudflared.exe tunnel --edge-ip-version 4 --protocol http2 --url http://192.168
 •  Step 6: Click Launch Game, pick a game, and remain still for 15 pre-game baseline samples. 
 
 •  Step 7: Play normally, then click Finish & Compare and sit still for 15 post-game samples to view before/after EEG results. 
+
+cloudflared.exe tunnel --edge-ip-version 4 --protocol http2 --url http://192.168.1.104
