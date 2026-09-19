@@ -24,7 +24,6 @@ cloudflared.exe tunnel --edge-ip-version 4 --protocol http2 --url http://192.168
 
 cloudflared.exe tunnel --edge-ip-version 4 --protocol http2 --url http://192.168.1.104
 
-cloudflared.exe tunnel --edge-ip-version 4 --protocol http2 --url 10.204.24.18
 
-cloudflared.exe tunnel --edge-ip-version 4 --protocol http2 --url https://10.204.24.18
+cloudflared.exe tunnel --edge-ip-version 4 --protocol http2 --url http://10.204.24.18
 
